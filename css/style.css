@@ -8681,8 +8681,8 @@ h1, h2, h3, h4, h5,
 .slider-text h2 {
   font-weight: 800; }
   .slider-text h2 span {
-    color: #f0325b;
-    text-decoration: underline; }
+    color: #e64040;
+    text-decoration: none; }
 
 .slider-text p {
   font-size: 20px;
